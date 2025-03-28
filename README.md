@@ -1,6 +1,7 @@
 # Amazon-Sales-Data-Analysis
 
-# Objective - Increase revenue and improve product category performance
+# Objective - 
+Increase revenue and improve product category performance
 
 # Question Solved -  
 Calculate the percentage of revenue for the top 3 product categories, and aim to increase the percentage of revenue for the lowest of the top 3 categories by 5% by the end of Q3 2022.
