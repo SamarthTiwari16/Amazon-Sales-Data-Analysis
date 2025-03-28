@@ -1,9 +1,9 @@
 # Amazon-Sales-Data-Analysis
 
-# Objective - 
+# Objective 
 Increase revenue and improve product category performance
 
-# Question Solved -  
+# Question Solved 
 Calculate the percentage of revenue for the top 3 product categories, and aim to increase the percentage of revenue for the lowest of the top 3 categories by 5% by the end of Q3 2022.
 
 # Preliminary Analysis
@@ -21,10 +21,10 @@ The average order amount by customer type is $8.21 for business customers and \$
 
 The most popular product category varies by state, and it may be worthwhile to analyze the reasons behind these trends and invest in marketing campaigns or promotions accordingly.
 
-# Analysis Summary and Recommendations-
+# Analysis Summary and Recommendations
 Use promotions to drive interest in the Western Dress product by targeting the top 50% of states ranked by sales revenue since their revenue is between 10 and 100 times more than the top ranked states by revenue in the lower 50%.
 
-# Implementation and Analysis of Strategies-
+# Implementation and Analysis of Strategies
 Work with the client to implement the following promotions:
      Promotion to drive interest in the Western Dress category
 Monitor the Impact of the Strategies
