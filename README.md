@@ -21,10 +21,13 @@ The average order amount by customer type is $8.21 for business customers and \$
 
 The most popular product category varies by state, and it may be worthwhile to analyze the reasons behind these trends and invest in marketing campaigns or promotions accordingly.
 
-![Image](https://github.com/user-attachments/assets/14e01b48-bc49-4a42-a75b-f2e1f01f7d50)
+![Image](https://github.com/user-attachments/assets/d86b8514-6d08-4440-8aae-95187e1ceb56)
+![Image](https://github.com/user-attachments/assets/26c03ae9-ce5f-4161-9384-c199b227af0e)
 
 # Analysis Summary and Recommendations
 Use promotions to drive interest in the Western Dress product by targeting the top 50% of states ranked by sales revenue since their revenue is between 10 and 100 times more than the top ranked states by revenue in the lower 50%.
+
+![Image](https://github.com/user-attachments/assets/14e01b48-bc49-4a42-a75b-f2e1f01f7d50)
 
 # Implementation and Analysis of Strategies
 Work with the client to implement the following promotions:
