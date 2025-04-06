@@ -5,6 +5,7 @@ Increase revenue and improve product category performance
 
 # Question Solved 
 Calculate the percentage of revenue for the top 3 product categories, and aim to increase the percentage of revenue for the lowest of the top 3 categories by 5% by the end of Q3 2022.
+![Image](https://github.com/user-attachments/assets/478f54c0-6ed1-441c-8df3-db0f570b9eec)
 
 # Preliminary Analysis
 Based on the analysis, we can draw some preliminary insights about the Q2 2022 performance of Amazon India:
